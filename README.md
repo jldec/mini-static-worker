@@ -5,5 +5,3 @@ no deps
 
 - `build` script copies a file into dist
 - `deploy` script does `wrangler deploy --assets dist`
-
-yay
