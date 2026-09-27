@@ -3,7 +3,7 @@
 	"private": "true",
 	"version": "1.0.0",
 	"scripts": {
-		"build": "mkdir -p dist && cp index.html dist",
+		"build": "sleep 30 && mkdir -p dist && cp index.html dist",
 		"deploy": "wrangler deploy --assets dist"
 	},
 	"devDependencies": {
