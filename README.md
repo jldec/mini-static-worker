@@ -8,3 +8,4 @@ no deps
 
 test
 test2
+test3
