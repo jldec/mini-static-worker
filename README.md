@@ -7,3 +7,4 @@ no deps
 - `deploy` script does `wrangler deploy --assets dist`
 
 test
+test2
